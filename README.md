@@ -14,6 +14,8 @@ My code is certified ADHD ware.
 
 <small>(That _also_ implies most code I write was written while in a hyperfocus.)</small>
 
+<small>(which also implies I write only bad code, but don't tell anyone shhhhhhh)</small>
+
 _You know, instead of blurting out unhinged stuff, maybe I could finally put my blog to use?_
 
 ---
@@ -25,3 +27,7 @@ Octopuses have three hearts, but when they swim, two of them just... stop beatin
 ---
 
 Oh and did you know I have a website? It's right there (under my profile picture)!
+
+---
+
+How's your day?
