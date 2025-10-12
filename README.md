@@ -18,7 +18,7 @@ __template.md__
 - Pronouns: they/them peferred over she/her
 - Fun fact: I like DnB, EDM and Breakcore
 - I overshare too much
-- I oppose GenAI and will refuse to use it
+- I oppose GenAI and will refuse to use it[^2]
 
 &lt;/pre&gt;
 
@@ -32,3 +32,4 @@ Oh and did you know I have a website? It's right there (under my profile picture
 How's your day?
 
 [^1]: assuming it doesn't cross legal or personal boundaries
+[^2]: ts pmo 🥀
