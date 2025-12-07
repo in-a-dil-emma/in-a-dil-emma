@@ -1,3 +1,5 @@
+Hi you can reach me at 📧 mailto:do-not-spam-me-please@emma.pizza
+
 # LGBT rights or fuck off 🏳️‍🌈
 
 ![GitHub language usage statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=in-a-dil-emma&theme=default&show_icons=true&hide_border=true&layout=compact)
